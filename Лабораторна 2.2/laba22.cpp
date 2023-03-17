@@ -54,6 +54,7 @@ int main()
         }
 
         topingsCombinations[i] = currentCombination;
+        
     }
 
     cout << "Menu: " << endl;
